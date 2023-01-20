@@ -69,10 +69,7 @@ body {
         font-family: epilogue;
     }
 
-    .junior-hero > img {
-        width: 155px;
-        left: 155px;
-    }
+   
 
     .hero-img {
         padding: 56px 0;
@@ -117,6 +114,11 @@ body {
     .media-social > a:hover {
         opacity: 50%;
         cursor: pointer;
+    }
+    
+     .junior-hero > img {
+        width: 155px;
+        left: 155px;
     }
 }
 
